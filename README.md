@@ -1,2 +1,2 @@
 # Dice-Roller
-Interactive dice roller (3 dices) coded in C#
+Interactive graphic dice roller (3 dices) coded in C#
