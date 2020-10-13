@@ -1,0 +1,28 @@
+C:\Users\1739188\Downloads\Labo4\Labo4\bin\Debug\Labo4.exe.config
+C:\Users\1739188\Downloads\Labo4\Labo4\bin\Debug\Labo4.exe
+C:\Users\1739188\Downloads\Labo4\Labo4\bin\Debug\Labo4.pdb
+C:\Users\1739188\Downloads\Labo4\Labo4\obj\Debug\Labo4.csprojResolveAssemblyReference.cache
+C:\Users\1739188\Downloads\Labo4\Labo4\obj\Debug\Labo4.Form1.resources
+C:\Users\1739188\Downloads\Labo4\Labo4\obj\Debug\Labo4.Properties.Resources.resources
+C:\Users\1739188\Downloads\Labo4\Labo4\obj\Debug\Labo4.csproj.GenerateResource.Cache
+C:\Users\1739188\Downloads\Labo4\Labo4\obj\Debug\Labo4.exe
+C:\Users\1739188\Downloads\Labo4\Labo4\obj\Debug\Labo4.pdb
+C:\Users\mlou\Downloads\Labo4\Labo4\bin\Debug\Labo4.exe.config
+C:\Users\mlou\Downloads\Labo4\Labo4\bin\Debug\Labo4.exe
+C:\Users\mlou\Downloads\Labo4\Labo4\bin\Debug\Labo4.pdb
+C:\Users\mlou\Downloads\Labo4\Labo4\obj\Debug\Labo4.csprojAssemblyReference.cache
+C:\Users\mlou\Downloads\Labo4\Labo4\obj\Debug\Labo4.Form1.resources
+C:\Users\mlou\Downloads\Labo4\Labo4\obj\Debug\Labo4.Properties.Resources.resources
+C:\Users\mlou\Downloads\Labo4\Labo4\obj\Debug\Labo4.csproj.GenerateResource.cache
+C:\Users\mlou\Downloads\Labo4\Labo4\obj\Debug\Labo4.csproj.CoreCompileInputs.cache
+C:\Users\mlou\Downloads\Labo4\Labo4\obj\Debug\Labo4.exe
+C:\Users\mlou\Downloads\Labo4\Labo4\obj\Debug\Labo4.pdb
+C:\Users\Adam\Downloads\Projects\C# Basic Dice Roller\Labo4\Labo4\bin\Debug\Labo4.exe.config
+C:\Users\Adam\Downloads\Projects\C# Basic Dice Roller\Labo4\Labo4\bin\Debug\Labo4.exe
+C:\Users\Adam\Downloads\Projects\C# Basic Dice Roller\Labo4\Labo4\bin\Debug\Labo4.pdb
+C:\Users\Adam\Downloads\Projects\C# Basic Dice Roller\Labo4\Labo4\obj\Debug\Labo4.csprojAssemblyReference.cache
+C:\Users\Adam\Downloads\Projects\C# Basic Dice Roller\Labo4\Labo4\obj\Debug\Labo4.Form1.resources
+C:\Users\Adam\Downloads\Projects\C# Basic Dice Roller\Labo4\Labo4\obj\Debug\Labo4.Properties.Resources.resources
+C:\Users\Adam\Downloads\Projects\C# Basic Dice Roller\Labo4\Labo4\obj\Debug\Labo4.csproj.GenerateResource.cache
+C:\Users\Adam\Downloads\Projects\C# Basic Dice Roller\Labo4\Labo4\obj\Debug\Labo4.exe
+C:\Users\Adam\Downloads\Projects\C# Basic Dice Roller\Labo4\Labo4\obj\Debug\Labo4.pdb
